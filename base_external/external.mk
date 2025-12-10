@@ -1,1 +1,1 @@
-include $(sort $(wildcard $(EXTERNAL_REL_BUILDROOT)/package/*/*.mk))
+include $(sort $(wildcard $(BR2_EXTERNAL)/package/*/*.mk))

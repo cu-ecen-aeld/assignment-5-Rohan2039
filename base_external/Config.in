@@ -1,1 +1,1 @@
-source "$(EXTERNAL_REL_BUILDROOT)/package/aesd-assignments/Config.in"
+source "$(BR2_EXTERNAL)/package/aesd-assignments/Config.in"
