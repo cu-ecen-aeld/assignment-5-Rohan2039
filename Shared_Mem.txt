@@ -1,0 +1,6 @@
+linux-gnu-ld" CPPFLAGS="-D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64" CFLAGS="-D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64  -O2 -g0 -D_FORTIFY_SOURCE=1" CXXFLAGS="-D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64  -O2 -g0 -D_FORTIFY_SOURCE=1" LDFLAGS="" FCFLAGS=" -O2 -g0" FFLAGS=" -O2 -g0" PKG_CONFIG="/home/rohan/CRZ/Learnings/assignment-4-Rohan2039/buildroot/output/host/bin/pkg-config" STAGING_DIR="/home/rohan/CRZ/Learnings/assignment-4-Rohan2039/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot" INTLTOOL_PERL=/usr/bin/perl CXX=no -C /home/rohan/CRZ/Learnings/assignment-4-Rohan2039/buildroot/output/build/aesd-assignments-0ae9e451dde5e970237fa58a954f314c64a0dac8/finder-app all
+make[2]: *** No rule to make target 'all'.  Stop.
+make[1]: *** [package/pkg-generic.mk:283: /home/rohan/CRZ/Learnings/assignment-4-Rohan2039/buildroot/output/build/aesd-assignments-0ae9e451dde5e970237fa58a954f314c64a0dac8/.stamp_built] Error 2
+make: *** [Makefile:82: _all] Error 2
+make: Leaving directory '/home/rohan/CRZ/Learnings/assignment-4-Rohan2039/buildroot'
+
