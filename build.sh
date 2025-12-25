@@ -28,6 +28,7 @@ then
 else
 	echo "USING EXISTING BUILDROOT CONFIG"
 	echo "To force update, delete .config or make changes using make menuconfig and build again."
+	echo $BR2_EXTERNAL_project_base_PATH
 	make -C buildroot BR2_EXTERNAL=${EXTERNAL_REL_BUILDROOT}
 
 fi
